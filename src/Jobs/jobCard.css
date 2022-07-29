@@ -1,0 +1,28 @@
+.JobCard {
+  background-color: #e7ecef;
+  border: 1px solid;
+  width: 450px;
+  max-width: 500px;
+  height: 275px;
+  margin-bottom: 10px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.JobList {
+  display: inline-block;
+}
+
+.button {
+  background-color: rgb(199, 198, 198);
+  color: black;
+  border-radius: 5px;
+}
+.button:hover {
+  cursor: pointer;
+}
+.buttonD {
+  background-color: rgb(91, 96, 89);
+  color: black;
+  border-radius: 5px;
+}

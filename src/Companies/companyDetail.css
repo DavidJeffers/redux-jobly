@@ -1,0 +1,14 @@
+.company-detail {
+  /* background-color: white; */
+  /* border: 1px solid; */
+  max-width: 500px;
+  max-height: 200px;
+  margin-bottom: 10px;
+  background-color: #e7ecef;
+  border-radius: 5px;
+  margin-top: 15px;
+}
+
+.company-detail-card {
+  display: inline-block;
+}

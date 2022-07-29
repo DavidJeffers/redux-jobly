@@ -1,0 +1,23 @@
+.CompanyCard {
+  background-color: #e7ecef;
+  border: 1px solid;
+  max-width: 500px;
+  max-height: 250px;
+  margin-bottom: 10px;
+  color: #0d4b74;
+  text-decoration: none;
+}
+
+.CompanyList {
+  display: inline-block;
+}
+
+.link {
+  text-decoration: none;
+}
+
+@media(max-width: 750px){
+  #link {
+    color: black;
+  }
+}
